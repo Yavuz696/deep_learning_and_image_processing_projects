@@ -12,7 +12,7 @@ Amaç, ön işleme (preprocessing) adımlarını kullanarak modelin rakamları d
 - **OpenCV (cv2)** → Görüntü işleme (blur, edge detection, histogram equalization)
 - **NumPy** → Sayısal işlemler
 - **Matplotlib** → Eğitim sürecinin görselleştirilmesi
-
+#aslında her türlü bilgiyi burada paylaşmamam lazım mesela api key lerin olduğu dosyaları!!
 ---
 
 ## 🧩 Proje Adımları
