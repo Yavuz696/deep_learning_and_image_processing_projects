@@ -14,7 +14,7 @@ Amaç, ön işleme (preprocessing) adımlarını kullanarak modelin rakamları d
 - **Matplotlib** → Eğitim sürecinin görselleştirilmesi
 #aslında her türlü bilgiyi burada paylaşmamam lazım mesela api key lerin olduğu dosyaları!!
 ---
-
+#temelde başka teknolojilerde kullanılabilir.
 ## 🧩 Proje Adımları
 
 ### 1️⃣ Veri Seti Yükleme
