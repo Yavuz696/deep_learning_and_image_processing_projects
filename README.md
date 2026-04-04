@@ -87,7 +87,7 @@ Metrik	Değer
 Test Loss	~0.6
 Test Accuracy	~0.90
 
-(Not: Değerler eğitim sonucuna göre değişebilir.)
+
 
 📁 Proje Yapısı
 bash
