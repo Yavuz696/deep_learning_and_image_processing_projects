@@ -60,7 +60,7 @@ model.compile(
     loss="sparse_categorical_crossentropy",
     metrics=["accuracy"]
 )
-5️⃣ Modelin Eğitimi
+5️⃣ Surecte Modelin egitimi
 python
 Copy code
 history = model.fit(
